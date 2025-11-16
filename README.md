@@ -10,7 +10,7 @@ It includes:
 - Summary / Insights
 
 **How to Run:**
-1. Open `ecommerce_datafilter.ipynb` in Google Colab or Jupyter Notebook.
+1. Open `ecommerce_datafilter.ipynb` in Google Colab.
 2. Upload `sales_data.xlsx` if prompted.
 3. Run all cells to view the dashboard.
 
