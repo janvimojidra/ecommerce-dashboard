@@ -1,23 +1,39 @@
 # E-commerce Dashboard Project
 
-This project is a **one-page e-commerce dashboard** built using **Python**.  
+A **one-page e-commerce dashboard** built using **Python**, **Pandas**, **Matplotlib**, **Seaborn**, and **Plotly**.  
+This dashboard provides a quick overview of sales, customers, products, and key insights from your e-commerce data.
 
-It includes:
-- KPI Cards: Total Sales, Total Customers, Total Products, Average Sales per Customer
-- Sales Trend Line Chart
-- Sales by Category Donut Chart
-- Top 10 Customers Bar Chart
-- Summary / Insights
+---
 
-**How to Run:**
-1. Open `ecommerce_datafilter.ipynb` in Google Colab.
-2. Upload `sales_data.xlsx` if prompted.
-3. Run all cells to view the dashboard.
+## Features
+- **KPI Cards**: Total Sales, Total Customers, Total Products, Average Sales per Customer
+- **Sales Trend Line Chart**: Shows sales over time
+- **Sales by Category Donut Chart**: Visualizes sales distribution by product category
+- **Top 10 Customers Bar Chart**: Highlights top customers by revenue
+- **Summary / Insights**: Key points from sales data
 
-**Libraries Needed:**
-- pandas
-- matplotlib
-- seaborn
-- plotly
-- openpyxl
+---
 
+## Open Dashboard
+Click the link below to open and run the e-commerce dashboard in **Google Colab**:
+
+[Open Dashboard in Colab](https://colab.research.google.com/github/janvimojidra/ecommerce-dashboard/blob/main/ecommerce_datafilter.ipynb)
+
+---
+
+## How to Run
+1. Open the notebook `ecommerce_datafilter.ipynb` in Google Colab or Jupyter Notebook.  
+2. Ensure the dataset `sales_data.xlsx` is in the same folder or upload it when prompted in Colab.  
+3. Run all cells to view KPIs, charts, and insights.
+
+---
+
+## Requirements
+Python libraries required to run this project:
+
+```text
+pandas
+matplotlib
+seaborn
+plotly
+openpyxl
