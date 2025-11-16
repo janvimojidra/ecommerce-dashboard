@@ -22,7 +22,7 @@ Click the link below to open and run the e-commerce dashboard in **Google Colab*
 ---
 
 ## How to Run
-1. Open the notebook `ecommerce_datafilter.ipynb` in Google Colab or Jupyter Notebook.  
+1. Open the notebook `ecommerce_datafilter.ipynb` in Google Colab.  
 2. Ensure the dataset `sales_data.xlsx` is in the same folder or upload it when prompted in Colab.  
 3. Run all cells to view KPIs, charts, and insights.
 
